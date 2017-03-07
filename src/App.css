@@ -1,0 +1,7 @@
+.compass {
+  border: 2px solid black;
+  border-radius: 50%;
+  width: 100vh;
+  height: 100vh;
+  margin: 0 auto;
+}
